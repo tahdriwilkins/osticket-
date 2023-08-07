@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Making of a Resource Group and a Virtual Machine in Microsoft Azure
+- Connect to the Virutal Machine using Remote Dekstop and start the proccess of downloading osTicket in the Virtual Machine
+- Enbale IIS (Internet Information Services) with CGI and HTTP features. This is needed to make sure that osTicket works properly
+- WIll need to download HediSQL to connect to the osTicket platform. 
+  
 
 
 <h2>Installation Steps</h2>
@@ -73,11 +73,10 @@ Then I downloaded HediSQL to connect to the osTicket database.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/d2ed0699-b362-4fa8-9013-dcac4aa47128">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The end of the installation process of configuring osTicket.</p>
 <br />
 
 
