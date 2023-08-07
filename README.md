@@ -57,7 +57,7 @@ Download all of the prerequisites before we download osTicket. This ensures that
 
 <p>
 
-  <img width="835" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/02802440-f26f-4888-8d90-7202a4905a2b">
+  <img width="835" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/b9af57bf-f343-438e-abbb-d8c13bf9934b">
   <img width="1128" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/5324e576-3f84-4184-a184-6c5eda9c12f4">
 
 </p>
