@@ -35,11 +35,10 @@ First I started off with making the resource group and virtual machine that I am
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="305" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/75fde929-7db6-4e3b-9f18-2c1cdfd898e5">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Then I connect to the Virtual Machine that I just created in Azure using Remote Desktop Connection.</p>
 <br />
 
 <p>
