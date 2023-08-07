@@ -66,11 +66,10 @@ After downloading osTicket, I then went into IIS to offically connect to osTicke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="449" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/1ebd4ab0-2dfc-4ca1-b864-2dcdd19b9317">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Then I downloaded HediSQL to connect to the osTicket database.</p>
 <br />
 
 <p>
