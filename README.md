@@ -58,11 +58,11 @@ Download all of the prerequisites before we download osTicket. This ensures that
 <p>
 
   <img width="835" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/02802440-f26f-4888-8d90-7202a4905a2b">
-  
+  <img width="1128" alt="image" src="https://github.com/tahdriwilkins/osticket-prereqs/assets/141438778/5324e576-3f84-4184-a184-6c5eda9c12f4">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+After downloading osTicket, I then went into IIS to offically connect to osTicket.</p>
 <br />
 
 <p>
